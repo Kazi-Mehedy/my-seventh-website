@@ -75,3 +75,20 @@ background-color:white;
 .icon-circle:hover{
     background-color: #474D5D;
 }
+#feedback{
+    background-color: #0d0442;
+    color:white;
+    padding:7% 10%;
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align:center;
+    font-style: italic;
+}
+.feedback-img{
+    width:120px;
+    height:auto;
+}
+.carousel-indicators{
+    bottom:-20px;
+}
